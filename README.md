@@ -1,2 +1,4 @@
 # DevLights_BootCamp2
-This is the repository of the fullstack react+node bootcamp organiced by DevLights
+This is the fullstack react+node bootcamp repository hosted by DevLights
+
+
